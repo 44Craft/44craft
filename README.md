@@ -6,5 +6,5 @@
 DOWNLOAD: 
 
 | **VERSION** 	| **DESCRIPTION** 	| **RELEASE DATE** 	| **CHANGES** 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 1.0 	| Minecraft survival-adventure modpack with over 80+ mods | ------ 	| None 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 1.0 	| Minecraft survival-adventure modpack with over 80+ mods 	| ??? 	| None 	|
